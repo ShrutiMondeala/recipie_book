@@ -1,0 +1,36 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    
+}
+.divBlock{
+    box-sizing: border-box;
+    height: 50vh;
+    width: 29vw;
+    text-align: center;
+    margin: 10px 10px;
+    background-color: rgb(38, 19, 59);
+    float: left;
+}
+
+.divBlock img{
+    padding: 5px;
+    width: 25vw;
+    border-radius: 20%;
+}
+
+.divBlock p{
+    padding: 10px;
+    color: white;
+    font-size: large;
+}
+
+.divBlock a:hover{
+    text-decoration: dotted;
+    border-bottom: 1px wheat;
+}
+.divBlock a{
+    bottom: 0;
+    color: navajowhite;
+    text-decoration: none;
+}

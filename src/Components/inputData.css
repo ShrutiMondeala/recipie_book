@@ -1,0 +1,29 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.inputData{
+    padding: 10px;
+}
+
+.inputData button{
+    height: 39px;
+    width: 67px;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-left: 10px;
+    background: transparent;
+    border: solid 2px rgb(38, 19, 59);
+    border-radius: 1px;
+}
+.inputData button:hover{
+    background-color: rgb(38, 19, 59);
+    color:white;
+}
+.inputData input{
+    height: 39px;
+    color: rgb(38, 19, 59);
+    border: none;
+    border-bottom: 1px black solid;
+    outline: none;
+}
